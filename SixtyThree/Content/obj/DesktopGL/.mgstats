@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/cambe/source/repos/SixtyThree/SixtyThree/Content/Ground.png","C:/Users/cambe/source/repos/SixtyThree/SixtyThree/Content/bin/DesktopGL/Ground.xnb","TextureProcessor","Texture2DContent",12404,2986069,0.1569282
+"C:/Users/cambe/source/repos/SixtyThree/SixtyThree/Content/idleanim.png","C:/Users/cambe/source/repos/SixtyThree/SixtyThree/Content/bin/DesktopGL/idleanim.xnb","TextureProcessor","Texture2DContent",1023,196693,0.0065337
+"C:/Users/cambe/source/repos/SixtyThree/SixtyThree/Content/placeholderblock.png","C:/Users/cambe/source/repos/SixtyThree/SixtyThree/Content/bin/DesktopGL/placeholderblock.xnb","TextureProcessor","Texture2DContent",4422,16469,0.0013636
